@@ -1,1 +1,1 @@
-# tahtali-dijital-ikiz
+# tahtali-dijital
